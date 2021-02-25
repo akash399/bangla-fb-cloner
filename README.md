@@ -1,4 +1,4 @@
-# bangla-fb-cloner
+# with login
 pkg update
 pkg upgrade
 pkg install python
